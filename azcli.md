@@ -25,3 +25,8 @@ az vm list-ip-addresses --name "" : Direccion IP de la maquina
 ** --no-wait: No bloquea la consola
 * az vm show --name "" --resource-group "" --output table : Muestra el detalle de ubicación de la VM.
 ** --output: Formato de Salida 
+
+## Cuentas de Almacenamiento
+
+* az storage account create --kind StorageV2 --resource-group "" --location "" --name ""
+* az storage blob upload --file "" --container-name "" --name "filename" --account-name ""
