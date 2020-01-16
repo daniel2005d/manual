@@ -5,3 +5,4 @@
 ### URL
 
 * https?:\/\/[\w\-\.]+\.\w{3,5}\/?.\S*
+* https?:\/\/[\w-.]+ -->Solo Dominio
